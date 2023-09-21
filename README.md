@@ -1,3 +1,5 @@
+This program takes 9 color palettes and maps them into a 3x3 square on the image.
+
 - Download 3x3PalleteColorMap-CPP
 - Naviagte into 3x3PalleteColorMap-CPP/ folder
 - To run Code with preset comands:
