@@ -1,5 +1,5 @@
-(1) Download caduma_final.zip
-(2) Naviagte intto caduma_final/ folder
+(1) Download 3x3PalleteColorMap-CPP
+(2) Naviagte into 3x3PalleteColorMap-CPP/ folder
 (3) To run Code with preset comands:
     [a] ./run1.sh
             - runs with waves.png image.
