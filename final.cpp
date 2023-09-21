@@ -1,13 +1,6 @@
 /*
-    Calvin Aduma
-
-    CPSC 4040 Ioannis Karamouzas
-
-    Final Project
-
     This program takes 9 color palettes and maps them into a 3x3
     square on the image.
-
 */
 
 #include "functions.h"
